@@ -1,5 +1,6 @@
 # Trading Bot
 
+![Trading Bot Image](trading_bot_img.png)
 Welcome to the Trading Bot project! This bot is designed to simulate a stock trading environment where you can buy, sell, and manage a portfolio of stocks. It's built with Python and integrates with the Telegram API for an interactive trading experience.
 
 ## Features
